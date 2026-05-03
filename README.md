@@ -6,9 +6,10 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 [![Responsive Design](https://img.shields.io/badge/Responsive-Design-green.svg)](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/CSS_layout/Responsive_Design)
 
-> 🎯 一款功能强大、界面精美的元素周期表工具，为学生、教师和化学爱好者提供全方位的学习和研究支持
-
-![应用图标](./icon.png)
+<div align="center">
+  <img src="icon.png" alt="元素周期表 PM" width="200" height="200">
+  <h3>🎯 一款功能强大、界面精美的元素周期表工具，为学生、教师和化学爱好者提供全方位的学习和研究支持</h3>
+</div>
 
 ## 📖 项目介绍
 
@@ -98,14 +99,14 @@
 ### 在线访问
 
 直接访问 GitHub Pages 部署的在线版本：
-[https://siweimidu.github.io/-PM/](https://siweimidu.github.io/-PM/)
+[https://siweimidu.github.io/PeriodicTablePM/](https://siweimidu.github.io/PeriodicTablePM/)
 
 ### 本地运行
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/siweimidu/-PM.git
-   cd -PM
+   git clone https://github.com/siweimidu/PeriodicTablePM.git
+   cd PeriodicTablePM
    ```
 
 2. **打开应用**
@@ -130,7 +131,7 @@
 3. Source 选择 `main` 分支
 4. 点击 Save 保存
 
-几分钟后即可在 `https://yourusername.github.io/-PM/` 访问
+几分钟后即可在 `https://yourusername.github.io/PeriodicTablePM/` 访问
 
 ## 📱 浏览器兼容性
 
@@ -159,8 +160,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/siweimidu/-PM.git
-cd -PM
+git clone https://github.com/siweimidu/PeriodicTablePM.git
+cd PeriodicTablePM
 
 # 使用你喜欢的代码编辑器打开
 # VS Code, Sublime Text, WebStorm 等均可
@@ -183,8 +184,8 @@ cd -PM
 
 ## 📬 联系方式
 
-- **项目主页**: [GitHub Repository](https://github.com/siweimidu/-PM)
-- **问题反馈**: [Issues](https://github.com/siweimidu/-PM/issues)
+- **项目主页**: [GitHub Repository](https://github.com/siweimidu/PeriodicTablePM)
+- **问题反馈**: [Issues](https://github.com/siweimidu/PeriodicTablePM/issues)
 - **邮箱**: 352388732ok@gmail.com
 
 ---
