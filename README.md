@@ -7,7 +7,7 @@
 [![Responsive Design](https://img.shields.io/badge/Responsive-Design-green.svg)](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/CSS_layout/Responsive_Design)
 
 <div align="center">
-  <img src="icon.png" alt="元素周期表 PM" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/siweimidu/PeriodicTablePM/main/icon.png" alt="元素周期表 PM" width="200" height="200">
   <h3>🎯 一款功能强大、界面精美的元素周期表工具，为学生、教师和化学爱好者提供全方位的学习和研究支持</h3>
 </div>
 
@@ -96,12 +96,12 @@
 
 ## 🚀 快速开始
 
-### 在线访问
+### 🌐 在线访问
 
-直接访问 GitHub Pages 部署的在线版本：
-[https://siweimidu.github.io/PeriodicTablePM/](https://siweimidu.github.io/PeriodicTablePM/)
+**GitHub Pages 在线预览版本：**
+👉 [https://siweimidu.github.io/PeriodicTablePM/](https://siweimidu.github.io/PeriodicTablePM/)
 
-### 本地运行
+### 💻 本地运行
 
 1. **克隆仓库**
    ```bash
@@ -124,14 +124,14 @@
 3. **访问应用**
    - 浏览器打开 `http://localhost:8000`
 
-### 部署到 GitHub Pages
+### 📡 部署到 GitHub Pages
 
-1. 进入仓库 Settings
-2. 选择 Pages 选项卡
-3. Source 选择 `main` 分支
-4. 点击 Save 保存
+1. 进入仓库 **Settings**
+2. 选择 **Pages** 选项卡
+3. **Source** 选择 `main` 分支
+4. 点击 **Save** 保存
 
-几分钟后即可在 `https://yourusername.github.io/PeriodicTablePM/` 访问
+几分钟后即可在 `https://siweimidu.github.io/PeriodicTablePM/` 访问在线版本
 
 ## 📱 浏览器兼容性
 
